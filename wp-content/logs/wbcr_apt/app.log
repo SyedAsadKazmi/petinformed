@@ -1,0 +1,216 @@
+
+08-09-2021 14:34:48 [petinformed.com][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+08-09-2021 14:34:53 [petinformed.com][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+08-09-2021 14:35:29 [petinformed.com][warning] The post type (wpa_rss) is not allowed for generation in settings
+-------------------------------
+08-09-2021 14:35:54 [petinformed.com][warning] The post type (wpa_rss) is not allowed for generation in settings
+-------------------------------
+08-09-2021 14:36:12 [petinformed.com][warning] The post type (wpa_rss) is not allowed for generation in settings
+-------------------------------
+08-09-2021 14:37:41 [petinformed.com][debug] Found images: array (
+)
+08-09-2021 14:37:41 [petinformed.com][info] Start generate attachment for post ID = 21606
+08-09-2021 14:37:41 [petinformed.com][info] Generated file path = /srv/users/petinformedcom/apps/petinformedcom/public/wp-content/uploads/2021/09/other-animals_21606.jpg
+08-09-2021 14:37:41 [petinformed.com][info] Successful generate attachment ID = 25473
+08-09-2021 14:37:41 [petinformed.com][info] End generate attachment for post ID = 21606
+08-09-2021 14:37:41 [petinformed.com][warning] The post type (wpa_rss) is not allowed for generation in settings
+-------------------------------
+08-09-2021 14:37:59 [petinformed.com][debug] Found images: array (
+)
+08-09-2021 14:37:59 [petinformed.com][info] Start generate attachment for post ID = 25476
+08-09-2021 14:37:59 [petinformed.com][info] Generated file path = /srv/users/petinformedcom/apps/petinformedcom/public/wp-content/uploads/2021/09/protect-your-ipad-mini-5-2019-with-these-great-screen-protectors_25476.jpg
+08-09-2021 14:38:00 [petinformed.com][info] Successful generate attachment ID = 25477
+08-09-2021 14:38:00 [petinformed.com][info] End generate attachment for post ID = 25476
+-------------------------------
+08-09-2021 14:38:06 [petinformed.com][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+08-09-2021 14:39:31 [petinformed.com][debug] Found images: array (
+)
+08-09-2021 14:39:31 [petinformed.com][info] Start generate attachment for post ID = 25472
+08-09-2021 14:39:31 [petinformed.com][info] Generated file path = /srv/users/petinformedcom/apps/petinformedcom/public/wp-content/uploads/2021/09/imore_25472.jpg
+08-09-2021 14:39:32 [petinformed.com][info] Successful generate attachment ID = 25480
+08-09-2021 14:39:32 [petinformed.com][info] End generate attachment for post ID = 25472
+08-09-2021 14:39:32 [petinformed.com][warning] The post type (wpa_rss) is not allowed for generation in settings
+-------------------------------
+08-09-2021 14:39:40 [petinformed.com][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img loading=&quot;lazy&quot; width=&quot;966&quot; height=&quot;471&quot; src=&quot;https://appauthority.com/wp-content/uploads/2021/08/2-35.png&quot; alt=&quot;Screenshot Easy&quot; class=&quot;wp-image-4436&quot; srcset=&quot;https://appauthority.com/wp-content/uploads/2021/08/2-35.png 966w, https://appauthority.com/wp-content/uploads/2021/08/2-35-300x146.png 300w, https://appauthority.com/wp-content/uploads/2021/08/2-35-768x374.png 768w&quot; sizes=&quot;(max-width: 966px) 100vw, 966px&quot;&gt;',
+    'url' =&gt; 'https://appauthority.com/wp-content/uploads/2021/08/2-35.png',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img loading=&quot;lazy&quot; width=&quot;969&quot; height=&quot;475&quot; src=&quot;https://appauthority.com/wp-content/uploads/2021/08/3-25.png&quot; alt=&quot;Super Screenshot&quot; class=&quot;wp-image-4437&quot; srcset=&quot;https://appauthority.com/wp-content/uploads/2021/08/3-25.png 969w, https://appauthority.com/wp-content/uploads/2021/08/3-25-300x147.png 300w, https://appauthority.com/wp-content/uploads/2021/08/3-25-768x376.png 768w&quot; sizes=&quot;(max-width: 969px) 100vw, 969px&quot;&gt;',
+    'url' =&gt; 'https://appauthority.com/wp-content/uploads/2021/08/3-25.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img loading=&quot;lazy&quot; width=&quot;970&quot; height=&quot;471&quot; src=&quot;https://appauthority.com/wp-content/uploads/2021/08/4-14.png&quot; alt=&quot;Assistive Touch for Android&quot; class=&quot;wp-image-4438&quot; srcset=&quot;https://appauthority.com/wp-content/uploads/2021/08/4-14.png 970w, https://appauthority.com/wp-content/uploads/2021/08/4-14-300x146.png 300w, https://appauthority.com/wp-content/uploads/2021/08/4-14-768x373.png 768w&quot; sizes=&quot;(max-width: 970px) 100vw, 970px&quot;&gt;',
+    'url' =&gt; 'https://appauthority.com/wp-content/uploads/2021/08/4-14.png',
+    'title' =&gt; '',
+  ),
+)
+08-09-2021 14:39:40 [petinformed.com][info] Start generate attachment for post ID = 25483
+08-09-2021 14:39:40 [petinformed.com][info] Generated file path = /srv/users/petinformedcom/apps/petinformedcom/public/wp-content/uploads/2021/09/how-to-screenshot-on-an-android_25483.jpg
+08-09-2021 14:39:40 [petinformed.com][info] Successful generate attachment ID = 25484
+08-09-2021 14:39:40 [petinformed.com][info] End generate attachment for post ID = 25483
+-------------------------------
+08-09-2021 14:39:41 [petinformed.com][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+08-09-2021 14:40:02 [petinformed.com][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+08-09-2021 14:40:17 [petinformed.com][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+08-09-2021 14:47:14 [petinformed.com][warning] The post (25472) has already been assigned a featured image
+08-09-2021 14:47:14 [petinformed.com][warning] The post type (wpa_rss) is not allowed for generation in settings
+-------------------------------
+08-09-2021 14:47:24 [petinformed.com][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img loading=&quot;lazy&quot; width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://petinformed.com/wp-content/uploads/2021/09/Houseparty-app-on-smartphone-stock-photo-1200x675-1-1024x576-1.jpeg&quot; alt=&quot;&quot; class=&quot;wp-image-3251&quot; srcset=&quot;https://petinformed.com/wp-content/uploads/2021/09/Houseparty-app-on-smartphone-stock-photo-1200x675-1-1024x576-1.jpeg 1024w, https://appauthority.com/wp-content/uploads/2021/07/Houseparty-app-on-smartphone-stock-photo-1200x675-1-300x169.jpeg 300w, https://appauthority.com/wp-content/uploads/2021/07/Houseparty-app-on-smartphone-stock-photo-1200x675-1-768x432.jpeg 768w, https://appauthority.com/wp-content/uploads/2021/07/Houseparty-app-on-smartphone-stock-photo-1200x675-1.jpeg 1200w&quot; sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;&gt;',
+    'url' =&gt; 'https://petinformed.com/wp-content/uploads/2021/09/Houseparty-app-on-smartphone-stock-photo-1200x675-1-1024x576-1.jpeg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img loading=&quot;lazy&quot; width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://petinformed.com/wp-content/uploads/2021/09/Houseparty-app-on-smartphone-stock-photo-sign-up-1200x675-1-1024x576-1.jpeg&quot; alt=&quot;&quot; class=&quot;wp-image-3252&quot; srcset=&quot;https://petinformed.com/wp-content/uploads/2021/09/Houseparty-app-on-smartphone-stock-photo-sign-up-1200x675-1-1024x576-1.jpeg 1024w, https://appauthority.com/wp-content/uploads/2021/07/Houseparty-app-on-smartphone-stock-photo-sign-up-1200x675-1-300x169.jpeg 300w, https://appauthority.com/wp-content/uploads/2021/07/Houseparty-app-on-smartphone-stock-photo-sign-up-1200x675-1-768x432.jpeg 768w, https://appauthority.com/wp-content/uploads/2021/07/Houseparty-app-on-smartphone-stock-photo-sign-up-1200x675-1.jpeg 1200w&quot; sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;&gt;',
+    'url' =&gt; 'https://petinformed.com/wp-content/uploads/2021/09/Houseparty-app-on-smartphone-stock-photo-sign-up-1200x675-1-1024x576-1.jpeg',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img loading=&quot;lazy&quot; width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://petinformed.com/wp-content/uploads/2021/09/Houseparty-app-on-smartphone-stock-photo-adding-friends-1200x675-1-1024x576-1.jpeg&quot; alt=&quot;&quot; class=&quot;wp-image-3253&quot; srcset=&quot;https://petinformed.com/wp-content/uploads/2021/09/Houseparty-app-on-smartphone-stock-photo-adding-friends-1200x675-1-1024x576-1.jpeg 1024w, https://appauthority.com/wp-content/uploads/2021/07/Houseparty-app-on-smartphone-stock-photo-adding-friends-1200x675-1-300x169.jpeg 300w, https://appauthority.com/wp-content/uploads/2021/07/Houseparty-app-on-smartphone-stock-photo-adding-friends-1200x675-1-768x432.jpeg 768w, https://appauthority.com/wp-content/uploads/2021/07/Houseparty-app-on-smartphone-stock-photo-adding-friends-1200x675-1.jpeg 1200w&quot; sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;&gt;',
+    'url' =&gt; 'https://petinformed.com/wp-content/uploads/2021/09/Houseparty-app-on-smartphone-stock-photo-adding-friends-1200x675-1-1024x576-1.jpeg',
+    'title' =&gt; '',
+  ),
+  3 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img loading=&quot;lazy&quot; width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://petinformed.com/wp-content/uploads/2021/09/Houseparty-app-on-smartphone-stock-photo-making-call-1200x675-1-1024x576-1.jpeg&quot; alt=&quot;&quot; class=&quot;wp-image-3254&quot; srcset=&quot;https://petinformed.com/wp-content/uploads/2021/09/Houseparty-app-on-smartphone-stock-photo-making-call-1200x675-1-1024x576-1.jpeg 1024w, https://appauthority.com/wp-content/uploads/2021/07/Houseparty-app-on-smartphone-stock-photo-making-call-1200x675-1-300x169.jpeg 300w, https://appauthority.com/wp-content/uploads/2021/07/Houseparty-app-on-smartphone-stock-photo-making-call-1200x675-1-768x432.jpeg 768w, https://appauthority.com/wp-content/uploads/2021/07/Houseparty-app-on-smartphone-stock-photo-making-call-1200x675-1.jpeg 1200w&quot; sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;&gt;',
+    'url' =&gt; 'https://petinformed.com/wp-content/uploads/2021/09/Houseparty-app-on-smartphone-stock-photo-making-call-1200x675-1-1024x576-1.jpeg',
+    'title' =&gt; '',
+  ),
+  4 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img loading=&quot;lazy&quot; width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://petinformed.com/wp-content/uploads/2021/09/Houseparty-app-on-smartphone-stock-photo-games-1200x675-1-1024x576-1.jpeg&quot; alt=&quot;&quot; class=&quot;wp-image-3255&quot; srcset=&quot;https://petinformed.com/wp-content/uploads/2021/09/Houseparty-app-on-smartphone-stock-photo-games-1200x675-1-1024x576-1.jpeg 1024w, https://appauthority.com/wp-content/uploads/2021/07/Houseparty-app-on-smartphone-stock-photo-games-1200x675-1-300x169.jpeg 300w, https://appauthority.com/wp-content/uploads/2021/07/Houseparty-app-on-smartphone-stock-photo-games-1200x675-1-768x432.jpeg 768w, https://appauthority.com/wp-content/uploads/2021/07/Houseparty-app-on-smartphone-stock-photo-games-1200x675-1.jpeg 1200w&quot; sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;&gt;',
+    'url' =&gt; 'https://petinformed.com/wp-content/uploads/2021/09/Houseparty-app-on-smartphone-stock-photo-games-1200x675-1-1024x576-1.jpeg',
+    'title' =&gt; '',
+  ),
+)
+08-09-2021 14:47:24 [petinformed.com][info] Start generate attachment for post ID = 25503
+08-09-2021 14:47:24 [petinformed.com][info] Generated file path = /srv/users/petinformedcom/apps/petinformedcom/public/wp-content/uploads/2021/09/houseparty-what-is-it-how-to-use-it_25503.jpg
+08-09-2021 14:47:24 [petinformed.com][info] Successful generate attachment ID = 25504
+08-09-2021 14:47:24 [petinformed.com][info] End generate attachment for post ID = 25503
+-------------------------------
+08-09-2021 14:47:26 [petinformed.com][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+08-09-2021 14:47:42 [petinformed.com][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+08-09-2021 14:52:34 [petinformed.com][warning] The post (25472) has already been assigned a featured image
+08-09-2021 14:52:34 [petinformed.com][warning] The post type (wpa_rss) is not allowed for generation in settings
+-------------------------------
+08-09-2021 14:52:45 [petinformed.com][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img loading=&quot;lazy&quot; width=&quot;985&quot; height=&quot;497&quot; src=&quot;https://petinformed.com/wp-content/uploads/2021/09/swiftkey-best-iphone-keyboard-apps.jpg&quot; alt class=&quot;wp-image-2643&quot; srcset=&quot;https://petinformed.com/wp-content/uploads/2021/09/swiftkey-best-iphone-keyboard-apps.jpg 985w, https://appauthority.com/wp-content/uploads/2021/05/swiftkey-best-iphone-keyboard-apps-300x151.jpg 300w, https://appauthority.com/wp-content/uploads/2021/05/swiftkey-best-iphone-keyboard-apps-768x388.jpg 768w&quot; sizes=&quot;(max-width: 985px) 100vw, 985px&quot;&gt;',
+    'url' =&gt; 'https://petinformed.com/wp-content/uploads/2021/09/swiftkey-best-iphone-keyboard-apps.jpg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img loading=&quot;lazy&quot; width=&quot;987&quot; height=&quot;506&quot; src=&quot;https://petinformed.com/wp-content/uploads/2021/09/grammarly-best-keyboard-apps.jpg&quot; alt class=&quot;wp-image-2644&quot; srcset=&quot;https://petinformed.com/wp-content/uploads/2021/09/grammarly-best-keyboard-apps.jpg 987w, https://appauthority.com/wp-content/uploads/2021/05/grammarly-best-keyboard-apps-300x154.jpg 300w, https://appauthority.com/wp-content/uploads/2021/05/grammarly-best-keyboard-apps-768x394.jpg 768w&quot; sizes=&quot;(max-width: 987px) 100vw, 987px&quot;&gt;',
+    'url' =&gt; 'https://petinformed.com/wp-content/uploads/2021/09/grammarly-best-keyboard-apps.jpg',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img loading=&quot;lazy&quot; width=&quot;985&quot; height=&quot;497&quot; src=&quot;https://petinformed.com/wp-content/uploads/2021/09/gboard-best-keyboard-apps.jpg&quot; alt class=&quot;wp-image-2645&quot; srcset=&quot;https://petinformed.com/wp-content/uploads/2021/09/gboard-best-keyboard-apps.jpg 985w, https://appauthority.com/wp-content/uploads/2021/05/gboard-best-keyboard-apps-300x151.jpg 300w, https://appauthority.com/wp-content/uploads/2021/05/gboard-best-keyboard-apps-768x388.jpg 768w&quot; sizes=&quot;(max-width: 985px) 100vw, 985px&quot;&gt;',
+    'url' =&gt; 'https://petinformed.com/wp-content/uploads/2021/09/gboard-best-keyboard-apps.jpg',
+    'title' =&gt; '',
+  ),
+  3 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img loading=&quot;lazy&quot; width=&quot;645&quot; height=&quot;311&quot; src=&quot;https://petinformed.com/wp-content/uploads/2021/09/chrooma-best-keyboard-apps-android.jpg&quot; alt class=&quot;wp-image-2646&quot; srcset=&quot;https://petinformed.com/wp-content/uploads/2021/09/chrooma-best-keyboard-apps-android.jpg 645w, https://appauthority.com/wp-content/uploads/2021/05/chrooma-best-keyboard-apps-android-300x145.jpg 300w&quot; sizes=&quot;(max-width: 645px) 100vw, 645px&quot;&gt;',
+    'url' =&gt; 'https://petinformed.com/wp-content/uploads/2021/09/chrooma-best-keyboard-apps-android.jpg',
+    'title' =&gt; '',
+  ),
+  4 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img loading=&quot;lazy&quot; width=&quot;983&quot; height=&quot;501&quot; src=&quot;https://petinformed.com/wp-content/uploads/2021/09/fleksy-best-keyboard-apps.jpg&quot; alt class=&quot;wp-image-2647&quot; srcset=&quot;https://petinformed.com/wp-content/uploads/2021/09/fleksy-best-keyboard-apps.jpg 983w, https://appauthority.com/wp-content/uploads/2021/05/fleksy-best-keyboard-apps-300x153.jpg 300w, https://appauthority.com/wp-content/uploads/2021/05/fleksy-best-keyboard-apps-768x391.jpg 768w&quot; sizes=&quot;(max-width: 983px) 100vw, 983px&quot;&gt;',
+    'url' =&gt; 'https://petinformed.com/wp-content/uploads/2021/09/fleksy-best-keyboard-apps.jpg',
+    'title' =&gt; '',
+  ),
+)
+08-09-2021 14:52:45 [petinformed.com][info] Start generate attachment for post ID = 25522
+08-09-2021 14:52:45 [petinformed.com][info] Generated file path = /srv/users/petinformedcom/apps/petinformedcom/public/wp-content/uploads/2021/09/best-keyboard-apps_25522.jpg
+08-09-2021 14:52:45 [petinformed.com][info] Successful generate attachment ID = 25523
+08-09-2021 14:52:45 [petinformed.com][info] End generate attachment for post ID = 25522
+-------------------------------
+08-09-2021 14:53:02 [petinformed.com][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------

@@ -1,0 +1,218 @@
+
+
+#customize-control-dp_color_scheme_1 input:checked + label img {
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+	border: 0 !important;
+}
+
+#customize-control-dp_color_scheme_1 input:checked + label {
+	-webkit-box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.25);
+	box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.25);
+	border: 1px solid #FFF;
+}
+
+#customize-control-dp_color_scheme_1 label {
+	width: 100%;
+	height: 20px;
+	margin-top:15px;
+}
+
+.customize-control-title {
+	font-size: 14px;
+	font-weight: 600;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+	color:#555;
+	margin-bottom:10px;
+}
+.customize-control-kirki .description {
+	font-style: normal !important;
+	font-weight: normal !important;
+	font-size: 12px !important;
+}
+
+.dp_customizer-divider {
+	margin: 10px -12px;
+	height: 25px;
+	background-color:#EEE;
+	border-top: 1px solid #DDD;
+	border-bottom: 1px solid #DDD;
+}
+
+.dp_customizer-divider-small {
+	border-bottom: 1px solid #DDD;
+	margin: 5px 0;
+}
+
+#customize-theme-controls .accordion-section-content {
+	background:#FCFCFC;
+	color: #555;
+}
+
+.customize-control-kirki-radio-buttonset .buttonset .switch-label {
+	border-top: 1px solid #3498DB !important;
+	border-bottom: 1px solid #3498DB !important;
+	border-left: 1px solid #3498DB !important;
+	border-right:none !important;
+	padding: 7px 9px  !important;
+	margin: 0;
+	font-size: 12px !important;
+	background:#EEE;
+}
+.customize-control-kirki-radio-buttonset .buttonset .switch-label:last-child {
+	border: 1px solid #3498DB !important;
+}
+#customize-theme-controls .accordion-section-content a {
+	/*color: #FFF;*/
+}
+
+#customize-control-dp_site_container_width {
+	margin-top: 15px;
+}
+.customize-control-kirki {
+/* 	margin-bottom: 25px; */
+}
+
+.customize-control-kirki-radio-buttonset .customize-control-title {
+	 margin-bottom:15px;
+}
+
+#customize-control-dp_website_layout .buttonset .switch-label {
+   /* padding: 8px 18px;
+    font-size: 16px;*/
+}
+
+#customize-control-dp_website_layout .buttonset .switch-label:first-of-type {
+	/*border-top-left-radius:5px;
+	border-bottom-left-radius:5px;*/
+}
+
+#customize-control-dp_website_layout .buttonset .switch-label:last-of-type {
+	/*border-top-right-radius:5px;
+	border-bottom-right-radius:5px;*/
+}
+
+.customize-control-kirki-slider input[type=range] {
+	height: 6px !important;
+}
+
+div#input_dp_site_layout_default img,
+div#input_dp_site_layout_category img,
+div#input_dp_site_layout_post img,
+div#input_dp_site_layout_page img {
+    width: 75px;
+    margin: 0px;
+    border: 2px solid #FFF;
+}
+
+div#input_dp_footer_pattern img,
+div#input_dp_site_container_pattern img,
+div#input_dp_header_pattern img,
+div#input_dp_bg_pattern img,
+div#input_dp_bg2_pattern img{
+    width: 40px;
+		height: 40px;
+    margin: 0px;
+    border: 2px solid #FFF;
+}
+
+/* Kirki Slider Modification */
+.customize-control-kirki-slider input[type=range] {
+  height: 12px !important;
+	background-color: rgba(0, 0, 0, 0.25) !important;
+}
+
+.customize-control-kirki-slider input[type=range]::-webkit-slider-thumb {
+	height: 23px !important;
+	width: 25px !important;
+	border-radius: 0 !important;
+	background-color: #2C3E4F !important;
+}
+
+.customize-control-kirki-slider input[type=range]::-moz-range-thumb {
+	height: 20px !important;
+	border-radius: 0 !important;
+}
+
+.customize-control-kirki-slider input[type=range]::-ms-thumb {
+	height: 20px !important;
+	border-radius: 0 !important;
+}
+
+
+.customize-control-kirki-color .wp-picker-container {
+	width: auto !important;
+}
+
+.customize-control-kirki-color .wp-picker-container a.wp-color-result {
+	width: 80px !important;
+	display: inline-block !important;
+	border: 1px solid #ccc !important;
+	padding-left: 30px !important;
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+}
+
+ .customize-control-kirki-color .wp-picker-container a.wp-color-result:after {
+	color: #23282d !important;
+	border-color: #a0a5aa !important;
+	border-left: 1px solid #999 !important;
+	background: #f7f7f7 !important;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	width: auto !important;
+}
+
+.customize-control-kirki-color .wp-picker-container .wp-picker-active a.wp-color-result:after {
+	width: auto !important;
+}
+
+#customize-control-dp_primary_menu_dual_color_toggle {
+	float: right;
+	width: 100px;
+	margin-top: 30px;
+}
+
+#customize-control-dp_primary_menu_color {
+	float: left;
+	width: 140px;
+	clear: none;
+}
+
+.customize-control-kirki-color .iris-palette {
+	height: 35px !important;
+	width: 35px !important;
+	margin-left:0 !important;
+	margin-right: 3px !important;
+	margin-top: 3px !important;
+}
+
+.customize-control-kirki-color .iris-strip {
+	height: 182px !important;
+	margin-left: 7px !important;
+}
+
+.customize-control-kirki-color .iris-picker {
+	height: 640px !important;
+}
+.dp-color-palette-before {
+		
+}
+.dp-color-palette-after {
+	padding-top:15px;
+	clear:both;
+}
+#customize-control-dp_primary_menu_link_color,
+#customize-control-dp_primary_menu_link_color_active {
+	margin-bottom: 0 !important;
+}
+
+.iris-slider,
+.iris-alpha-slider {
+	width: 18px !important;
+}
+
+.customize-control-kirki-color .customize-control-title,
+.customize-control-kirki-color .customize-control-description {
+	display: none;
+}
